@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../Android/Sdk/platforms/android-31/data/res/drawable/title_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/costume_inp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/newshadow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shadow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shadowimg.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_acheter_phone.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_add_and_update_phone.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_apropos.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_historique.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main_details_phone.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/apropos_model_de_vue.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/modef_form.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/modef_form_achat.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/model_a_propos.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/model_add_and_update.xml" value="0.16666666666666666" />
+        <entry key="app/src/main/res/layout/model_details_phone.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/model_forme.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/model_historique.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/model_list_marque.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/model_liste_phone.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/model_liste_product.xml" value="0.40404040404040403" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/teste.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launchernew.png.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

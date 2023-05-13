@@ -1,0 +1,29 @@
+﻿RAPPORT DU PROJET ANDROÏDE STUDIO
+
+Nom projet   : ECMShop
+
+Développeur :Étienne Clément MBAYE
+
+L’application développer dans cet projet gère des produits de type électroniques plus précisément  
+    -Ordinateur Portable
+    -Tablette
+    -Téléphone Portable
+Ces trois types seront considéré comme famille de produits.
+
+Propriété des produits :  
+Les produits ont comme propriété : Nom , Catégorie, Prix, Version, Ram, Stockage, Autonomie et nombre Stock
+
+Structure de l’application :
+Pattern MVC et SINGLETON 
+
+Fonctionnalités de l’ application :
+On peut consulter,  ajouter, modifier , supprimer, et acheter des produits. Ajouter a cela on peut aussi consulte l’historique d’achat des produits, supprimer l’historique et aussi supprimer l’ensemble des produits de la base de donnée .
+Concernant la base de donnée on a deux tables : Product et Historique .
+*Pour Product : on a le champs id, nam, marque(qui est notre catégorie ou famille), prix, version,
+ram, stockage, autonomie, et stock.
+*Pour Historique : on a le champs id, nomClient, prenomClient, numeroClient, addressClient, nam, marque(qui est notre catégorie ou famille), prix, version,
+ram, stockage, autonomie.
+
+Enfin une vidéo de l’application est disponible pour voir les détails, interface et fonction de l’application.
+
+Merci.
